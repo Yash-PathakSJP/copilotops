@@ -136,7 +136,7 @@ http://localhost:3000
 You should see a message confirming that the backend server is running successfully.
 ---
 
-##API-Based Usage
+## API-Based Usage
 CopilotOps is designed as a backend-first tool.
 
 It can be interacted with using:
@@ -159,7 +159,7 @@ npm run dev
 
 ---
 
-##What Makes CopilotOps Unique
+## What Makes CopilotOps Unique
 
 *Extends GitHub Copilot concepts beyond code generation
 *Focuses on workflow automation instead of only content generation
@@ -171,7 +171,7 @@ Unlike many AI projects that only generate content, CopilotOps focuses on develo
 
 ---
 
-##ecurity and Best Practices
+## Security and Best Practices
 
 GitHub tokens are stored securely using environment variables
 Sensitive files are excluded using .gitignore
@@ -181,7 +181,7 @@ Follows standard Node.js backend best practices
 
 ---
 
-##Challenges Faced
+## Challenges Faced
 
 -Setting up Express.js for the first time
 -Managing server lifecycle and debugging nodemon behavior
@@ -191,7 +191,7 @@ Follows standard Node.js backend best practices
 
 ---
 
-##What We Learned
+## What We Learned
 
 -How Express.js servers work internally
 -How GitHub REST APIs handle authentication and authorization
@@ -201,7 +201,7 @@ Follows standard Node.js backend best practices
 
 ---
 
-##Future Improvements
+## Future Improvements
 
 -Frontend dashboard for easier interaction
 -GitHub App or GitHub Action integration
